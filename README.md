@@ -24,8 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-
+My first NestJS API with user authentication and all CRUD operations. Techs used: nestJs, docker, postgres, passport js, prisma, pactum and dotenv.
 ## Installation
 
 ```bash
